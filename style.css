@@ -1,0 +1,45 @@
+html {
+    font-family: Georgia, sans-serif;
+    margin: auto 10px;
+}
+
+.list {
+    border: 2px solid black;
+    margin: 3px;
+    background-color: lavender;
+}
+
+.list li {
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+.list li,
+li {
+    margin: 10px auto;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul, ol {
+    border: 2px solid lightgray;
+    background-color: ghostwhite;
+}
+
+.home-btn {
+    display: block;
+    border: 1px solid lightgrey;
+    background-color: whitesmoke;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
